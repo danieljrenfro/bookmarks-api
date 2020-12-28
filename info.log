@@ -1,0 +1,356 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark name is required","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Could not find a bookmark with that id","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
