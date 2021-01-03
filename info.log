@@ -715,3 +715,49 @@
 {"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
 {"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
 {"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Bookmark url is required and must begin with http(s)://","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Bookmark rating is required and must be a number between 1 and 5","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/123456","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/2","level":"error"}

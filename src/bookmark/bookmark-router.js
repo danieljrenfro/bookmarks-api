@@ -1,5 +1,6 @@
 const express = require('express');
 const xss = require('xss');
+const path = require('path');
 
 const logger = require('../logger');
 const BookmarksService = require('./bookmarks-service.js');
@@ -8,7 +9,7 @@ const bookmarkRouter = express.Router();
 const bodyParser = express.json();
 
 bookmarkRouter
-  .route('/bookmarks')
+  .route('/api/bookmarks')
   .get((req, res, next) => {
     const db = req.app.get('db');
 
@@ -71,14 +72,14 @@ bookmarkRouter
       .then(bookmark => {
         res
           .status(201)
-          .location(`/bookmarks/${bookmark.id}`)
+          .location(path.posix.join(req.originalUrl + `/${bookmark.id}`))
           .json(bookmark);
       })
       .catch(next);
   });
 
 bookmarkRouter
-  .route('/bookmarks/:id')
+  .route('/api/bookmarks/:id')
   .all((req, res, next) => {
     BookmarksService.getById(
       req.app.get('db'),
@@ -111,6 +112,27 @@ bookmarkRouter
     const db = req.app.get('db');
 
     BookmarksService.deleteBookmark(db, id)
+      .then(() => {
+        res.status(204).end();
+      })
+      .catch(next);
+  })
+  .patch(bodyParser, (req, res, next) => {
+    const db = req.app.get('db');
+    const id = req.params.id;
+    const { title, url, description, rating } = req.body;
+    const updatedBookmark = { title, url, description, rating };
+
+    const numberOfValues = Object.values(updatedBookmark).filter(Boolean).length;
+    if (numberOfValues === 0) {
+      return res.status(400).json({
+        error: {
+          message: `Request body must contain either 'title', 'url', 'description' or 'rating'`
+        }
+      });
+    }
+
+    BookmarksService.updateBookmark(db, id, updatedBookmark)
       .then(() => {
         res.status(204).end();
       })

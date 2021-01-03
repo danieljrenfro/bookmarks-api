@@ -43,7 +43,7 @@ function makeMaliciousBookmark() {
   };
   const expectedBookmark = {
     ...maliciousBookmark,
-    title: 'Naughty naughty very naughty &lt;script&gt;alert(\"xss\");&lt;/script&gt;',
+    title: 'Naughty naughty very naughty &lt;script&gt;alert("xss");&lt;/script&gt;',
     description: `Bad image <img src="https://url.to.file.which/does-not.exist">. But not <strong>all</strong> bad.`
   };
   return {
